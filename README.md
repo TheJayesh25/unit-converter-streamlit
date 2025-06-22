@@ -24,6 +24,7 @@ An interactive Streamlit app to convert between **distance**, **temperature**, a
 
 ## 📦 Project Structure
 
+```bash
 unit_converter_app/
 ├── app.py # Streamlit UI
 ├── requirements.txt # Minimal dependencies
@@ -33,6 +34,7 @@ unit_converter_app/
 │ └── currency.py
 ├── .gitignore
 └── README.md
+```
 
 ## 🔧 Setup Instructions
 
@@ -56,29 +58,33 @@ EXCHANGE_RATE_API_KEY=your_api_key_here
 ```bash
 streamlit run app.py
 ```
-### 🧠 Tech Stack
-Python 3.8+
-Streamlit
-requests
-python-dotenv
 
-### ✨ Highlights
-✅ Modular, testable Python logic
-✅ Real-world currency API integration
-✅ Clean UI with Streamlit
-✅ Deploys in seconds via Streamlit Cloud
+### 🧠 Tech Stack
+- Python 3.8+
+- Streamlit
+- requests
+- python-dotenv
+
+
+### ✅ Features
+
+- ✅ Modular, testable Python logic  
+- ✅ Real-world currency API integration  
+- ✅ Clean UI with Streamlit  
+- ✅ Deploys in seconds via Streamlit Cloud
+
 
 ### 💡 Future Ideas
-🔊 Voice input with speechrecognition
-📈 Currency history chart (e.g., INR to USD over time)
-🧠 Natural language input parsing (e.g., “Convert 5 feet to meters”)
+
+- 🔊 Voice input with speechrecognition
+- 📈 Currency history chart (e.g., INR to USD over time)
+- 🧠 Natural language input parsing (e.g., “Convert 5 feet to meters”)
+
 
 ### 🧑‍💻 Author
 Jayesh Suryawanshi
 🧠 Python Developer | 💡 AI Tools Builder | 🌍 Data & Engineering Enthusiast
-📫 LinkedIn
-
-LinkedIn
+📫 [LinkedIn](https://www.linkedin.com/in/jayesh-suryawanshi-858bb21aa/)
 
 ### 📜 License
 MIT License — free to use, modify, and share.
