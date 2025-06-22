@@ -18,7 +18,7 @@ An interactive Streamlit app to convert between **distance**, **temperature**, a
 
 ## 🖥️ Live Demo
 
-👉 [Launch the App](https://your-streamlit-url.streamlit.app)  
+👉 [Launch the App]([https://your-streamlit-url.streamlit.app](https://unit-converter-app-js25.streamlit.app/))  
 
 ---
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Create a .env file in the project root:
 
 EXCHANGE_RATE_API_KEY=your_api_key_here
-🔑 You can get a free API key from exchangerate-api.com
+🔑 You can get a free API key from [ExchangeRate](exchangerate-api.com)
 
 ### 4. Run the App Locally
 ```bash
