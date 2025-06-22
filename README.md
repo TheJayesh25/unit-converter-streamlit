@@ -18,7 +18,7 @@ An interactive Streamlit app to convert between **distance**, **temperature**, a
 
 ## 🖥️ Live Demo
 
-👉 [Launch the App]([https://your-streamlit-url.streamlit.app](https://unit-converter-app-js25.streamlit.app/))  
+👉 [Launch the App](https://unit-converter-app-js25.streamlit.app/)
 
 ---
 
