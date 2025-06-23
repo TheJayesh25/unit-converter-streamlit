@@ -83,10 +83,8 @@ streamlit run app.py
 
 ### 🧑‍💻 Author
 Jayesh Suryawanshi
-🧠 Python Developer | 💡 AI Tools Builder | 🌍 Data & Engineering Enthusiast
-📫 [LinkedIn](https://www.linkedin.com/in/jayesh-suryawanshi-858bb21aa/)
+- 🧠 Python Developer | 💡 AI Tools Builder | 🌍 Data & Engineering Enthusiast
+- 📫 [LinkedIn](https://www.linkedin.com/in/jayesh-suryawanshi-858bb21aa/)
 
 ### 📜 License
-MIT License — free to use, modify, and share.
----
-Let me know if you want a `LICENSE` file or a badge-based header (like stars, forks, version, license).
+MIT License
